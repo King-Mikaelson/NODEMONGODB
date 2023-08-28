@@ -22,7 +22,11 @@
     "mongoose": "^7.4.5",
     "uuid": "^9.0.0"
   },
+  "engines": {
+    "node": ">=14 <15"
+    },
   "devDependencies": {
     "nodemon": "^3.0.1"
   }
+  
 }
