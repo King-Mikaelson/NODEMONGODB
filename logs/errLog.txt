@@ -1,0 +1,20 @@
+2023-08-05	18:27:17	6f797672-63bb-4126-9516-de297d8d3734	TypeError : fsPromises.readFie is not a function
+2023-08-05	18:28:38	db9c445f-546a-46c3-9470-797093a1072e	TypeError : fsPromises.readFie is not a function
+2023-08-27	07:23:42	51fbdaa5-d675-4668-9cb9-2ad4672f2494	SyntaxError: Unexpected token } in JSON at position 50
+2023-08-27	07:23:57	512bc583-0545-4c18-a363-0d5d24ea6088	SyntaxError: Unexpected token } in JSON at position 50
+2023-08-27	07:24:34	3cdd1c71-0da9-4e50-8466-1a3c3c2d8df2	SyntaxError: Unexpected token } in JSON at position 50
+2023-08-27	07:24:54	7ab492c2-4d46-4bc9-b0ee-189ad45a2e82	SyntaxError: Unexpected token } in JSON at position 50
+2023-08-27	07:25:59	9d1904a9-3b0b-448f-9096-4307faba21ae	SyntaxError: Unexpected token } in JSON at position 50
+2023-08-27	11:15:35	df05c4ea-6969-4fdd-903d-d9e46200df52	SyntaxError: Unexpected token } in JSON at position 14
+2023-08-27	11:21:07	d8c94424-a274-4921-8a87-56bb27a71ee4	SyntaxError: Unexpected end of JSON input
+2023-08-27	11:21:15	5f288aea-fa93-4819-a31b-0ad821114b9b	SyntaxError: Unexpected end of JSON input
+2023-08-27	11:21:16	5272e3e5-30d9-40d1-94f9-7e8b4e7fc335	SyntaxError: Unexpected end of JSON input
+2023-08-27	11:21:27	ca6798e1-b77c-4c9e-98c8-1cf0b62a3dae	SyntaxError: Unexpected end of JSON input
+2023-08-27	19:52:42	d242976d-e8dd-4465-890a-699e651f2ff7	SyntaxError: Unexpected token e in JSON at position 0
+2023-08-27	20:11:59	407bc16e-6a65-43b0-85d1-33a5baca36fe	SyntaxError: Unexpected token A in JSON at position 16
+2023-08-28	10:41:46	bf0b4048-ce80-4258-938a-bc68746e2bf8	MongooseError: Model.find() no longer accepts a callback
+2023-08-28	10:42:59	4049c630-d825-4337-97db-72f4bd6bb51c	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'MongoClient'
+    |     property 's' -> object with constructor 'Object'
+    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'
+    --- property 'client' closes the circle
