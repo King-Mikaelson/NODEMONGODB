@@ -679,3 +679,4 @@
 2023-08-28	12:44:11	c8816cac-1ada-4a75-9778-88876322891d	DELETE	undefined	/employees
 2023-08-28	12:44:30	0ff6afb5-08c8-4839-a3d3-d60316788daf	POST	undefined	/auth
 2023-08-28	12:44:45	e0c5bc36-3fb4-4987-9abb-79cc42b4970a	DELETE	undefined	/employees
+2023-08-28	14:33:59	c3d1e57e-1c77-4ec3-804e-d365e6287c0a	POST	undefined	/auth
